@@ -39,7 +39,7 @@ $ jekyll build
 ## Screenshots ##
 
 ![index page](https://raw.github.com/kirkgo/caspian/master/assets/images/caspian-theme-index.png)
-![post page](https://raw.github.com/rosario/caspian/master/assets/images/caspian-theme-post.png)
+![post page](https://raw.github.com/kirkgo/caspian/master/assets/images/caspian-theme-post.png)
 
 
 ## Thanks ##
