@@ -1,6 +1,6 @@
 # Caspian #
 
-Live theme available at [kirk-patrick.com.br](http://kirk-patrick.com.br).
+Live theme available at [kirk-patrick.com](http://kirk-patrick.com).
 
 This is a theme for Jekyll. It's a very clean and focused theme based on Kasper. Feel free to fork, change, modify and re-use it.
 
@@ -52,7 +52,7 @@ This is a draft and can definitely will be improved on. Pull requests are very m
 
 ## Demo ##
 
-This is the theme currently powering the site at [kirk-patrick.com.br](http://kirk-patrick.com.br)
+This is the theme currently powering the site at [kirk-patrick.com](http://kirk-patrick.com)
 
 ## Copyright & License ##
 
